@@ -1,3 +1,4 @@
+<img width="1888" height="851" alt="image" src="https://github.com/user-attachments/assets/0d0fec4b-2745-4a6d-a506-c6cfaa7ef9f6" />
 # MediCitas
 
 Aplicación Laravel para listar, filtrar, agendar y gestionar citas médicas desde una interfaz web y una API autenticada con Laravel Sanctum.
